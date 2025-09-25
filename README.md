@@ -1,4 +1,4 @@
 # dushyant_repo
 for learning github.
 <br>
-author - dushyant mankar
+author - dushyant mankar is learning python .
